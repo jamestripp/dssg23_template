@@ -9,7 +9,7 @@
 project = "Greenwashing"
 copyright = "2023, James Tripp"
 author = "James Tripp"
-release = "0.0.0"
+release = "0"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
