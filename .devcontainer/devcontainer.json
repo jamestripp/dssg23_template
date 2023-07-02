@@ -18,7 +18,8 @@
 				"ms-python.python",
 				"ms-python.black-formatter",
 				"ms-python.flake8",
-				"njpwerner.autodocstring"
+				"njpwerner.autodocstring",
+				"ms-vscode.makefile-tools"
 			],
 			"settings": {
 				"python.pythonPath": "/usr/local/py-utils/bin/black",

@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+greenwashing/__init__.py
+greenwashing.egg-info/PKG-INFO
+greenwashing.egg-info/SOURCES.txt
+greenwashing.egg-info/dependency_links.txt
+greenwashing.egg-info/requires.txt
+greenwashing.egg-info/top_level.txt
+greenwashing/interface/__init__.py
+greenwashing/interface/main.py
